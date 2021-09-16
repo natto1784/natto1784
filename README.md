@@ -1,3 +1,5 @@
-# Hello
-I am a clumsy retard, yeah\
-Current interests: Functional Programming, Emacs and a lot of other stuff
+<div align=center>
+  <img src=https://i.imgur.com/KmW5GtM.jpg alt=acha width=300px>
+  <br>
+  <b>Get real</b>
+</div>
