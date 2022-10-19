@@ -1,5 +1,5 @@
 # alo
-Undergraduate freshman somewhere\
+Undergraduate sophomore somewhere\
 I like DarkSouls and ふもふも\
 discord: AlpaViraam#0735\
 natto on IRC (#nixos on Libera and freenode, and some random channels on OFTC)\
