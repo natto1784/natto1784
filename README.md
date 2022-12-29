@@ -1,8 +1,10 @@
 # alo
-Undergraduate sophomore somewhere\
-I like DarkSouls and ふもふも\
-discord: AlpaViraam#0735\
-natto on IRC (#nixos on Libera and freenode, and some random channels on OFTC)\
-I've the same username (natto1784) or natto17 pretty much everywhere else\
+Undergraduate sophomore in Information Technology\
+I like 東方Project, Dark Souls, Trivium and other random stuff\
+I sometimes post here [here](https://weirdnatto.in)\
+Go [here](https://git.weirdnatto.in/natto1784) for fresh pushes\
 Mail me at [natto@weirdnatto.in](mailto:natto@weirdnatto.in)\
-Go [here](https://git.weirdnatto.in/natto1784) for fresh pushes
+Discord: AlpaViraam#0735\
+PGP Fingerprint: 53EC 089E F230 E47A 83BA  8F81 9594 9BD4 B853 F559\
+natto on IRC (#nixos on Libera and freenode, and some random channels on OFTC), though I probably will be idling indefinitely\
+I've the same username (natto1784) or natto17 pretty much everywhere else
