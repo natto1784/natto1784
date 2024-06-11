@@ -1,5 +1,5 @@
 # alo
-Rising undergraduate junior in Information Technology\
+Undergraduate junior in Information Technology\
 I like 東方Project, Dark Souls, Trivium and other random stuff\
 I sometimes post here [here](https://weirdnatto.in)\
 Go [here](https://git.weirdnatto.in/natto1784) for fresh pushes\
